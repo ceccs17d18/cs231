@@ -33,3 +33,13 @@ int main()
  
   return 0;
 }
+output:Enter number of elements
+5
+Enter the integers
+7 5 6 4 3
+Sorted list is:
+3
+4
+5
+6
+7
