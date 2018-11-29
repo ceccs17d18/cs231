@@ -1,4 +1,5 @@
     //darsana,rollno:18
+//exp 14 Circular Doubly LL -  insert anywhere, search and insert
     #include<stdio.h>
     #include <stdlib.h>
 
@@ -680,5 +681,33 @@
         }
 
     }
+output: linked list
+1.insert at beginning 
+ 2.insert at end
+ 3.insert at position
+4.sort linked list
+ 5.delete node at position
+ 6.updatenodevalue
+7.search element 
+8.displaylist from beginning
+9.display list from end
+10.exit 
+ enter your choice:1
+
+enter the value to be inserted at first:2
+
+initially it is empty linked list later insertion is done
+ enter your choice:1
+
+enter the value to be inserted at first:4
+
+ the value is inserted at begining
+ enter your choice:8
+
+2 number of nodes are there
+ 4
+ 2
+ enter your choice:
 
 
+	
