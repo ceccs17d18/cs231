@@ -1,7 +1,7 @@
 
 	//3.INSERTION SORT
-	NAME :darsana m
-	ROLL No. :18//
+	//NAME :darsana m
+	//ROLL No. :18//
 	
 
 	#include<stdio.h>
