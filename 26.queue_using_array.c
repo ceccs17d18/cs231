@@ -1,3 +1,4 @@
+//exp 26:Implementation of queue using array
 #include <stdio.h>//darsana,rollno:18
 #define MAX 50
 int queue_array[MAX];
@@ -114,3 +115,27 @@ int display()
     }
 
 } 
+output:1.Insert element to queue 
+2.Delete element from queue 
+3.Display all elements of queue 
+4.Quit 
+Enter your choice : 1
+Inset the element in queue : 3
+1.Insert element to queue 
+2.Delete element from queue 
+3.Display all elements of queue 
+4.Quit 
+Enter your choice : 1
+Inset the element in queue : 5
+1.Insert element to queue 
+2.Delete element from queue 
+3.Display all elements of queue 
+4.Quit 
+Enter your choice : 3
+Queue is : 
+3 5 
+1.Insert element to queue 
+2.Delete element from queue 
+3.Display all elements of queue 
+4.Quit 
+Enter your choice : 4
