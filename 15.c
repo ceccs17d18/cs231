@@ -101,3 +101,15 @@ void err_exit(char const *tag)
     fprintf(stderr, "%s\n", tag);
     exit(1);
 }
+output:OUTPUT:
+	Enter coefficient: 2
+	Enter exponent: 3
+	1. Add elements
+	2. Display
+	Enter choice: 1
+	Enter coefficient: 3
+	Enter exponent: 1
+	1. Add elements
+	2. Display
+	Enter choice: 2
+F(p) = 2X^3 + 3X^1 + 0 
