@@ -1,3 +1,6 @@
+//darsana.m
+//roll no:18
+//24.Stack: Infix expression evaluation
 #include <stdio.h>
 #include <stdlib.h>
 int power(int base, int exponent) {
@@ -83,3 +86,5 @@ int main() {
   }
   printf("Final result : %d\n", operandStack[0]);
 }
+output:Enter the infix expression : 2+4*3
+Final result : 14
