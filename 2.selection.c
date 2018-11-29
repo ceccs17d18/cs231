@@ -1,4 +1,7 @@
-    #include <stdio.h>//darsana,rollno:18
+    //darsana .m
+//roll no:18
+//exp2:selection sort.c
+#include <stdio.h>
      
     int main()
     {
@@ -33,3 +36,11 @@
      
       return 0;
     }
+output:enter the no of elements4
+Enter the numbers 
+1 2 3 0
+Sorted list is:
+0
+1
+2
+3
