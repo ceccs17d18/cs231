@@ -1,4 +1,7 @@
-#include <stdio.h>//darsana,roll:18
+//Doubly LL - insert at begin, at end, after a value searched+Doubly LL - first, last, search and delete
+//darsana.m
+//roll no:18
+#include <stdio.h>
 #include <stdlib.h>
 struct node
 {
@@ -343,3 +346,143 @@ void sort()
     }
     traversebeg();
 }
+output:
+	OUTPUT:
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:1
+	Enter data: 1
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:2
+	Enter data: 2
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	1 -> 2 -> NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:3
+	Enter key: 3 1
+	Enter data: 3
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	1 -> 3 -> 2 -> NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:4
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	3 -> 2 -> NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:5
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	3 -> NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:6
+	Enter key: 3
+
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:8
+	NULL
+	MENU
+	1.Insertion(begin)
+	2.Insertion(end)
+	3.Insertion(after key)
+	4.Deletion(begin)
+	5.Deletion(end)
+	6.Deletion(key)
+	7.Search
+	8.Display
+	Enter choice:7
+Empty list!!!
