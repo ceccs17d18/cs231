@@ -46,3 +46,7 @@ while(top!=-1)
 {	printf("%c",pop());
 }
 }
+ouutput:
+    OUTPUT:
+    Enter the infix form: ((c+s)*(c-s))
+    cs+cs-*
