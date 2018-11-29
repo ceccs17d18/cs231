@@ -1,4 +1,7 @@
-#include<stdio.h> //darsana,rollno:18
+//darsana m
+//roll no:18
+//exp:6 merge sort non recussive
+#include<stdio.h> 
 int arr[20];      
 int main()
 {
@@ -60,3 +63,8 @@ int merge(int arr[],int l,int m,int h)
 
   return 0;
 }
+output:Enter the size of array
+4
+Enter the elements:7 6 5 4
+Sorted array:4567
+
