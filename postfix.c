@@ -91,3 +91,7 @@ int pop(stack *s)
     
     return(x);
 }
+output:
+      OUTPUT:
+      Enter the postfix expression : 23*6/
+      1
