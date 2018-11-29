@@ -1,3 +1,5 @@
+//darsana.m roll:18
+//28..Implementation of queue using array
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -76,3 +78,36 @@ int main() {
 	} while(choice != '4');
   deleteAll();
 }
+output:	Queue using array
+1.Enqueu
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 3
+
+	Queue using array
+1.Enqueu
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 1
+Enter data to be entered : 5
+
+	Queue using array
+1.Enqueu
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 3
+
+Linked List
+HEADER->3->5->NULL
+
+	Queue using array
+1.Enqueu
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice : 
+
