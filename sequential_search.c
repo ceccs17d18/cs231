@@ -25,3 +25,13 @@
      
       return 0;
     }
+output:Enter number of elements in array
+4
+Enter 4 integer(s)
+8
+7
+6
+5
+Enter a number to search
+5
+5 is present at location 4.
