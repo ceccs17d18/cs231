@@ -1,4 +1,7 @@
-#include<stdio.h>//darsana.m,s3.d,roll:18,quick sort recussive
+//darsana.m
+//roll no:18
+//7.quick sort non recussive
+#include<stdio.h>
 void quicksort(int number[25],int first,int last)
 {int i, j, pivot, temp;
 if(first<last)
