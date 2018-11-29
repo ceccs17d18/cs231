@@ -92,3 +92,31 @@ void display()
     }
    return 0;
 }
+output: Enter the size of STACK[MAX=100]:3
+
+	 STACK OPERATIONS USING ARRAY
+	 1.PUSH
+	 2.POP
+	 3.DISPLAY
+	 4.EXIT
+ Enter the Choice:1
+ Enter a value to be pushed:3
+
+ Enter the Choice:3
+
+ The elements in STACK 
+
+3
+ Press Next Choice
+ Enter the Choice:1
+ Enter a value to be pushed:5
+
+ Enter the Choice:3
+
+ The elements in STACK 
+
+5
+3
+ Press Next Choice
+ Enter the Choice:
+
