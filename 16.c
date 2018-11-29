@@ -1,3 +1,5 @@
+//exp:16 polynomial addition
+//darsana.m
 #include <stdio.h>
 #include <stdlib.h>
 struct node {
@@ -136,4 +138,41 @@ int main() {
 	deleteAll(polynomial2);
 	deleteAll(polynomial3);
 	return (0);
-}
+}	Polynomial 1
+Enter coefficient : 2
+Enter exponent : 2
+
+1. Add more terms
+2. Continue
+Enter your choice : 1
+
+Enter coefficient : 3
+Enter exponent : 1
+
+1. Add more terms
+2. Continue
+Enter your choice : 2
+
+	Polynomial 2
+Enter coefficient : 4
+Enter exponent : 2
+
+1. Add more terms
+2. Continue
+Enter your choice : 1
+
+Enter coefficient : 5
+Enter exponent : 1
+
+1. Add more terms
+2. Continue
+Enter your choice : 2
+
+
+Adding polynomials
+P(x) = 2x^2 + 3x^1
+Q(x) = 4x^2 + 5x^1
+Sum
+R(x) = 6x^2 + 8x^1
+
+output:
