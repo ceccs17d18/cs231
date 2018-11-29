@@ -1,4 +1,7 @@
-#include <stdio.h> //darsana m,s3.d,roll:18
+//darsana m
+//roll no:18
+//9.heap sort
+#include <stdio.h> 
 int main()
 {
 	int heap[10], no, i, j, c, root, temp;
@@ -46,3 +49,8 @@ int main()
 		printf("%d", heap[i]);
 	return 0;
 }
+output:Enter no of elements :5
+
+ Enter the nos : 7 5 6 4 3
+Heap array : 75643
+ The sorted array is : 34567
