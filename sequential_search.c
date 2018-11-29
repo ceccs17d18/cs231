@@ -1,4 +1,5 @@
     //darsana,roll:18
+    //exp no:1,sequential search
    
     #include<stdio.h> 
     int main()
