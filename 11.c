@@ -1,6 +1,6 @@
 //darsana .m
 //roll:18
-//exp14a+11 Singly LL - insert at begin, at end, after a value searched+Singly LL - first, last, search and delete
+//exp14a+exp 11 Singly LL - insert at begin, at end, after a value searched+Singly LL - first, last, search and delete
 #include<stdio.h>
 	#include<stdlib.h>
 	struct node
