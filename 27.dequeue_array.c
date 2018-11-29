@@ -1,3 +1,4 @@
+//exp:27 Implementation of dequeue using array
 #include<stdio.h>//darsana,rollno:18
 #define MAX 30
 typedef struct dequeue
@@ -194,3 +195,70 @@ void print(dequeue *P)
     
     printf("\n%d\n",P->data[P->rear]);
 }
+output:
+1.Create
+2.Insert(rear)
+3.Insert(front)
+4.Delete(rear)
+5.Delete(front)
+6.Print
+7.Exit
+
+Enter your choice:1
+
+Enter number of elements:4
+
+Enter the data:1 5 3 2
+
+1.Create
+2.Insert(rear)
+3.Insert(front)
+4.Delete(rear)
+5.Delete(front)
+6.Print
+7.Exit
+
+Enter your choice:6
+
+1
+5
+3
+2
+
+1.Create
+2.Insert(rear)
+3.Insert(front)
+4.Delete(rear)
+5.Delete(front)
+6.Print
+7.Exit
+
+Enter your choice:2
+
+Enter element to be inserted:4
+
+1.Create
+2.Insert(rear)
+3.Insert(front)
+4.Delete(rear)
+5.Delete(front)
+6.Print
+7.Exit
+
+Enter your choice:6
+
+1
+5
+3
+2
+4
+
+1.Create
+2.Insert(rear)
+3.Insert(front)
+4.Delete(rear)
+5.Delete(front)
+6.Print
+7.Exit
+
+Enter your choice:
