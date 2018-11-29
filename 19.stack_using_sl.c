@@ -1,4 +1,7 @@
-#include <stdio.h>//darsana,rollno:18
+//darsana.m
+//roll:18
+//19.stack using linkedlist
+#include <stdio.h>
 #include <stdlib.h>
 struct node
 {
@@ -172,3 +175,21 @@ void destroy()
     count = 0;
 }
      
+output:1 - Push
+ 2 - Pop
+ 3 - Top
+ 4 - Empty
+ 5 - Exit
+ 6 - Dipslay
+ 7 - Stack Count
+ 8 - Destroy stack
+ Enter choice : 1
+Enter data : 4
+
+ Enter choice : 1
+Enter data : 5
+
+ Enter choice : 2
+
+ Popped value : 5
+ Enter choice : 5
