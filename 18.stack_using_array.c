@@ -1,3 +1,6 @@
+//darsana.m
+//roll:18
+//18.Implementation of stack using array
 #include<stdio.h>
 int stack[100],choice,n,top,x,i;
 void push(void);
